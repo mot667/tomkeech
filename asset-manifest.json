@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mot667.github.io/static/css/main.9c93cdd7.chunk.css",
-    "main.js": "/mot667.github.io/static/js/main.f3d86a7c.chunk.js",
-    "main.js.map": "/mot667.github.io/static/js/main.f3d86a7c.chunk.js.map",
+    "main.js": "/mot667.github.io/static/js/main.69b2a011.chunk.js",
+    "main.js.map": "/mot667.github.io/static/js/main.69b2a011.chunk.js.map",
     "runtime-main.js": "/mot667.github.io/static/js/runtime-main.0fdae7be.js",
     "runtime-main.js.map": "/mot667.github.io/static/js/runtime-main.0fdae7be.js.map",
     "static/css/2.af3c1da9.chunk.css": "/mot667.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.18d1960c.chunk.js": "/mot667.github.io/static/js/2.18d1960c.chunk.js",
-    "static/js/2.18d1960c.chunk.js.map": "/mot667.github.io/static/js/2.18d1960c.chunk.js.map",
+    "static/js/2.972a8494.chunk.js": "/mot667.github.io/static/js/2.972a8494.chunk.js",
+    "static/js/2.972a8494.chunk.js.map": "/mot667.github.io/static/js/2.972a8494.chunk.js.map",
     "index.html": "/mot667.github.io/index.html",
-    "precache-manifest.16b1a10f40fc67376386bde425503f41.js": "/mot667.github.io/precache-manifest.16b1a10f40fc67376386bde425503f41.js",
+    "precache-manifest.b7a4086d2a5047e2d288d67ffa1b81e6.js": "/mot667.github.io/precache-manifest.b7a4086d2a5047e2d288d67ffa1b81e6.js",
     "service-worker.js": "/mot667.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/mot667.github.io/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.9c93cdd7.chunk.css.map": "/mot667.github.io/static/css/main.9c93cdd7.chunk.css.map",
-    "static/js/2.18d1960c.chunk.js.LICENSE.txt": "/mot667.github.io/static/js/2.18d1960c.chunk.js.LICENSE.txt",
+    "static/js/2.972a8494.chunk.js.LICENSE.txt": "/mot667.github.io/static/js/2.972a8494.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/mot667.github.io/static/media/meWallPaper.ff8d3ff0.jpg",
     "static/media/instagram.png": "/mot667.github.io/static/media/instagram.c9e78916.png",
     "static/media/me.jpg": "/mot667.github.io/static/media/me.f756c437.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.0fdae7be.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.18d1960c.chunk.js",
+    "static/js/2.972a8494.chunk.js",
     "static/css/main.9c93cdd7.chunk.css",
-    "static/js/main.f3d86a7c.chunk.js"
+    "static/js/main.69b2a011.chunk.js"
   ]
 }
